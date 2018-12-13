@@ -1,0 +1,4 @@
+#Tue Nov 27 20:46:31 GMT+04:00 2018
+base.0=/Users/wolknarmo/StudioProjects/my/SmartNotes/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bca3f97652617e72347c34cd8a65c3b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66b2f97af6806118fd56cf7a6a8b3787/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/15c3558450524ba64810f514708330ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a2cba99e9b18332aea6eda26c035252f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ceba70134880f7238cc60eca9f309a7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/44b7a425d19c330854c2a6aeb845a8a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/06680113268f54740904e78175b284f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a0d2af0580b32fa7be44f99af366a72c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/08889a3e0ed3355c606a3825cf66982c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/106278fa0173cd42126ed4e26db0fbb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1d71361ce2ee7b0af4a80d31c2184a14/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a9a45880ccdcf72ee1114930c85eeb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3082ac97d3307c36ae50e1fd665b31/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfa13a0a6196b27d6482622ecaf483d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/921bb93bee81c1fba33f5cd212b6d738/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66b2f97af6806118fd56cf7a6a8b3787/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66b2f97af6806118fd56cf7a6a8b3787/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:11:9-40
+activity#org.wolknarmo.smartnotes.list.NotesListActivity
+ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:13:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:16:27-74
+activity#org.wolknarmo.smartnotes.detail.NoteDetailsActivity
+ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:20:9-23:20
+	android:parentActivityName
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml:21:13-55
+uses-sdk
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bca3f97652617e72347c34cd8a65c3b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bca3f97652617e72347c34cd8a65c3b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66b2f97af6806118fd56cf7a6a8b3787/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66b2f97af6806118fd56cf7a6a8b3787/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/15c3558450524ba64810f514708330ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/15c3558450524ba64810f514708330ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a2cba99e9b18332aea6eda26c035252f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a2cba99e9b18332aea6eda26c035252f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ceba70134880f7238cc60eca9f309a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ceba70134880f7238cc60eca9f309a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/44b7a425d19c330854c2a6aeb845a8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/44b7a425d19c330854c2a6aeb845a8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/06680113268f54740904e78175b284f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/06680113268f54740904e78175b284f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a0d2af0580b32fa7be44f99af366a72c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a0d2af0580b32fa7be44f99af366a72c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/08889a3e0ed3355c606a3825cf66982c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/08889a3e0ed3355c606a3825cf66982c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/106278fa0173cd42126ed4e26db0fbb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/106278fa0173cd42126ed4e26db0fbb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1d71361ce2ee7b0af4a80d31c2184a14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1d71361ce2ee7b0af4a80d31c2184a14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a9a45880ccdcf72ee1114930c85eeb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a9a45880ccdcf72ee1114930c85eeb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3082ac97d3307c36ae50e1fd665b31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3082ac97d3307c36ae50e1fd665b31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfa13a0a6196b27d6482622ecaf483d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfa13a0a6196b27d6482622ecaf483d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/921bb93bee81c1fba33f5cd212b6d738/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wolknarmo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/921bb93bee81c1fba33f5cd212b6d738/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wolknarmo/StudioProjects/my/SmartNotes/app/src/main/AndroidManifest.xml
